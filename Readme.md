@@ -1,3 +1,4 @@
 # Video Chat App
 
-- Inital process gotten from https://tsh.io/blog/how-to-write-video-chat-app-using-webrtc-and-nodejs/
+- Inital process gotten from https://www.youtube.com/watch?v=DvlyzDZDEq4
+- Run with yarn
